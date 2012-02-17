@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+apiversion: 2
+description: My module
+author: Rafael
+license: Specify your license
+copyright: Rafael
+
+
+# these should not be edited
+name: timinibrowser
+moduleid: ti.minibrowser
+guid: 747a09df-024f-4ab5-a7b6-985d68bbaca9
+platform: iphone
+minsdk: 1.8.1
